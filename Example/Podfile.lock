@@ -1,0 +1,16 @@
+PODS:
+  - YMMBlurView (0.1.0)
+
+DEPENDENCIES:
+  - YMMBlurView (from `../`)
+
+EXTERNAL SOURCES:
+  YMMBlurView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YMMBlurView: c414d3a1ad1cb84ecdb9456f60f18caac73e6ef1
+
+PODFILE CHECKSUM: 5cdcf5bc1bf7eb595c7cce08bb4342173ef9c709
+
+COCOAPODS: 1.5.0

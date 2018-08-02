@@ -1,0 +1,6 @@
+framework module YMMBlurView {
+  umbrella header "YMMBlurView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YMMBlurView_Example' do
+  pod 'YMMBlurView', :path => '../'
+
+  target 'YMMBlurView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
